@@ -1,8 +1,8 @@
 title: Xuguangjun@Tencent
-description: a programmer at tencent
+description: a C++ programmer at tencent
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-hacker
+theme: minima
 
 gems:
   - jekyll-mentions
